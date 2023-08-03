@@ -4,7 +4,7 @@ Line 3
 Line 4
 Line 5 -- modified
 Line 6 -- modified
-Line 7
-Line 8
+Line 7 -- modified in cloned folder
+Line 8 -- modified in cloned folder
 Line 9 -- modified in next commit
 Line 10 -- modified in next commit
